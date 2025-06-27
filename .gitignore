@@ -1,0 +1,22 @@
+# virtual environment
+venv/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & artifacts
+*.csv
+*.faiss
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor/OS files
+.vscode/
+.DS_Store
+
+# Logs
+*.log
