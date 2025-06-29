@@ -1,8 +1,5 @@
-streamlit
-openai
-sentence-transformers
-faiss-cpu
-langdetect
-requests
-beautifulsoup4
-deep-translator==1.11.4
+streamlit>=1.0
+sentence-transformers>=2.2
+faiss-cpu>=1.7
+openai>=1.0
+deep-translator>=1.11
