@@ -37,7 +37,7 @@ def set_query(q: str):
 ## Bind the text_input to session_state.query
 query = st.text_input(
     "Your question:",
-    placeholder="How do I pay my electricity bill?",
+    placeholder="what type of payments can i make with jupiter upi?",
     key="query",
 )
 
