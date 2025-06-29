@@ -5,3 +5,4 @@ faiss-cpu
 langdetect
 requests
 beautifulsoup4
+deep-translator==1.11.4
