@@ -3,3 +3,4 @@ sentence-transformers>=2.2
 faiss-cpu>=1.7
 openai>=1.0
 deep-translator>=1.11
+langdetect>=1.0.9
