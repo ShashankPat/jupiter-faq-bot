@@ -1,0 +1,1047 @@
+category,question,answer
+jupiter-labs,Introducing Jupiter Labs 🧪,"Hey everyone!
+We’re introducing
+Jupiter Labs!
+This initiative will allow community folks to be a part of early feature testing, design reviews, new flows, and much more!
+**
+Click here to register
+**
+What happens then?
+Once you register, we’ll add you to the community Jupiter labs group.
+We will inform you about what needs to be done, what to test, what to look out for, etc.
+You will provide feedback, find bugs if any and share your honest opinion!
+Note:
+The group list will be updated every 14 days and we need as many volunteers as possible.
+(Very important)
+You need to be a part of the community so that we can let you know when the lab tests are ready. This will also allow you to communicate here.
+Changes to Jupiter labs (Feb 1st, 2023 update)
+We’ve made few changes to the format of conducting lab tests on the Community.
+Testers will have to review the feature in the comments of the lab test thread in a certain manner.
+A certain no. of reviews will be picked for best reviews and testers get rewarded with Jewels.
+Every lab test going forward will have this format,
+Starting from Feb 1st, 2023.
+Here are some of our live lab tests
+-
+Jupiter labs - Jupiter Community
+This is your chance to build your own bank. Your feedback matters. We hear you"
+jupiter-labs,About the Jupiter labs category,"Test new/current features, designs review, flows, and much more!
+Share your feedback, find bugs if any and let us know your honest opinions.
+Let the testing begin!"
+jupiter-labs,(New) Lab test #15 - Credit Card tracking 💳,"Hi everyone!
+We’re excited to announce the launch of our External Credit Card Tracking feature on Jupiter!
+Now, you can connect your credit cards from all major banks (HDFC, SBI, ICICI, AXIS, KOTAK) to the Jupiter app and enjoy features like:
+Spend categorization for smarter budgeting
+Personalized financial insights
+Bill pay reminders
+And much more!
+Everything you need to stay on top of your finances.
+UI sneak peek
+CVP
+360×800 41.3 KB
+Finding CCs
+360×800 116 KB
+Finding CCs (1)
+360×860 105 KB
+Screenshot 2024-11-12 125304
+312×618 32.5 KB
+Track Home
+1080×2400 334 KB
+Early access, test, win jewels
+Get early access to External Credit Card tracking on Jupiter
+You need to register here
+-
+https://forms.gle/3k15BhGnQ44UWy4P7
+Bug bounty
+During the lab test, folks will need to find bugs (hope there aren’t any
+)
+Folks who find the most critical bugs will be awarded 1250 Jewels
+each! (We will pick 3 people  for finding the best bugs)
+Duration
+Start date: Rolling out from 22nd November, 2024 for both
+&
+End date: 9th December, 2024
+Make sure you have the latest app version & register on time to get access! -
+https://forms.gle/3k15BhGnQ44UWy4P7
+Let’s make this feature exceptional together!
+@trust_level_0"
+jupiter-labs,CIBIL SCORE Tracking,Please initiate CIBIL score monitoring.
+jupiter-labs,Exciting Update: Introducing the New Fund Offerings (NFOs) on Jupiter!,"We’re thrilled to announce that our latest feature, New Fund Offerings (NFO), is now live and available for all users!
+What is NFO?
+A New Fund Offering (NFO) is like an IPO in the stock market, but for Mutual Funds. Investors can purchase units of a Mutual Fund as soon as it launches. With an NFO, you can invest in a fund at its inception, getting early access to a promising investment.
+Why Invest in NFOs?
+Early Access:
+NFO allows you to invest in a fund at its launch price, which can be beneficial if the fund performs well over time.
+Diverse Opportunities:
+NFOs often introduce innovative strategies, sectors, or themes that might not be available through existing funds, giving you access to fresh and diverse investment opportunities.
+Potential for High Returns:
+While all investments come with risks, NFOs can deliver substantial returns, especially if the fund manager can capitalize on market trends and opportunities.
+Strategic Investment:
+NFOs can complement your existing portfolio by adding exposure to new sectors or strategies, helping you to diversify and manage risk more effectively.
+UI Sneak peeks
+Screenshot at Aug 21 16-49-13
+664×1348 65.5 KB
+Screenshot at Aug 21 16-50-02
+738×1358 123 KB
+Screenshot at Aug 21 16-50-23
+638×1288 231 KB
+Screenshot at Aug 21 16-50-41
+636×1288 241 KB
+How It works
+You can follow these steps to invest in an NFO:
+Navigate to the NFO Section:
+Open your Jupiter app and navigate to the “Invest” or “MF Explore” section. There, you’ll find a dedicated collection for NFOs.
+Explore Available NFOs:
+Browse through the list of available NFOs. Each listing provides detailed information about the fund, helping you make an informed decision.
+Select and Invest:
+If you decide to invest, you can invest One-time and/or set up an SIP in the NFO. You can make multiple one-time investments in an NFO.
+Track your NFO investment:
+After investing, you can track the status of your transaction in the Transaction Tab or directly through the NFOs collection.
+What to check?
+While you try out NFOs on Jupiter, we’d love to receive your honest feedback on:
+What did you like/dislike about the feature?
+Any issues that you faced while using it on the app?
+Any other suggestions to improve the experience?
+If you’ve invested in NFOs on another platform, was there something you liked and you would want it to be on Jupiter?
+Where can you get started?
+Make sure you have the latest app version (3.0.12)
+We’re excited to bring this new feature to you and can’t wait to see how you use it to achieve your investment goals. Stay tuned for more updates and tips on making the most out of NFOs!
+Happy investing!
+@trust_level_0"
+jupiter-labs,(Ongoing) Lab test #12 - Search bar on Home Page 🔎,"Hi Lab testers!
+Thank you for sharing your invaluable feedback for the Search bar on the Payments tab. Your feedback has encouraged us to improve the existing feature as well as bring the Search bar to the Jupiter App Home Page with a larger scope.
+Community A-2
+1080×1080 45.1 KB
+How to use it?
+This is live on the Home Page of the Jupiter App for folks who had enrolled for
+@Jupiterlabs
+Please make sure to update the app to the latest version to try it out.
+IMG_8127-2
+828×1792 88.1 KB
+What to expect from the Search bar on Homepage?
+Quick access to any product feature, money insights or information on the Jupiter App
+From creating pots, making payments to checking your account details, information regarding your bills, balances, etc you can try asking questions related to any product feature on Jupiter App.
+Ask any other Jupiter related questions!
+Hope you have fun trying it out! While you do that we’d love to receive your honest feedback on:
+What did you like / dislike about the new experience?
+Any issues that you faced while using it on the app?
+Any other suggestions to improve the experience?
+Best reviews get 🎁
+We would like to reward Jupiter lab testers for their hard work. We like to shape the product with our Community folks.
+The data science team will pick 5 value adding reviews in the comment section below. The 5 reviewers will be rewarded with 200j each.
+Note:
+You will need to be part of the Jupiter labs group in the Community.
+Your review should be in the comments below.
+Test duration
+Users registered for Jupiter labs on or before March 28th, 2023, will be eligible to test.
+The team will announce the results of chosen reviews on April 30th, 2023
+This is an AI based feature and hence with time we’d expect it to learn with data and get better at solving your queries and requests. We’d keep an eye on your feedback.
+Looking forward to hearing from you!
+Happy testing!"
+jupiter-labs,(Completed) Lab test #14 - Pay to Contact on Jupiter 📞,"@Jupiterlabs
+, assemble!
+We’re finally live with Pay to Contact in the Jupiter app
+This was a long-awaited feature, a lot of folks wanted it, and it’s here!
+To access this, you will need to be on the app version 2.1.4 and above.
+Cards
+3240×3240 152 KB
+Navigation
+You can quickly access Pay to Contact on the home page.
+1
+1170×1439 68.9 KB
+Or, you could head over to the payments tab and tap on the icon under Money transfer.
+2
+1170×2391 127 KB
+Create your UPI Number if you haven’t yet
+You can now create a custom UPI number that will be linked to your Jupiter UPI ID. Use it to receive payments from any UPI app.
+3
+1170×2532 120 KB
+What to test
+Create your UPI number, check the flow, and let us know how it went.
+Did you face anything during the process? Were you able to understand the flow?
+Try sending it to your friends/family. Was the process smooth?
+Messages received while sending and receiving.
+Feedback on Design and UI in the app.
+Spoiler alert
+We’re building a common search for all your UPI transfers. You can transfer using phone number, UPI number, and UPI ID under 1 page.
+Would something like this interest you?
+Yes! I need this.
+Not at the moment.
+0
+voters
+Best reviews get
+We would like to reward Jupiter lab testers for helping us test the feature.
+The Payments team will pick 5 value adding reviews in the comment section below. The 5 reviewers will be rewarded with 1000j each. The review could mention critical bug reports if any, suggestions to improve that can change user experience drastically, etc.
+Note:
+You will need to be part of the Jupiter labs group in the Community / have access to Pay to Contact.
+Your review should be in the comments below.
+Test duration
+July 19th, Friday to July 31, Monday 2023
+The team will announce the results of chosen reviews on August 1st, 2023
+Grab your lab coat and let the testing begin
+Good luck!
+@trust_level_0"
+jupiter-labs,(Completed) Lab test #13 - Investments tab 2.0,"Hi Community,
+We’ve been working on revamping the investments dashboard and are happy to introduce the - Investment tab 2.0
+It’s our latest investment home screen. This is available to all
+@Jupiterlabs
+users.
+2.0
+1080×1080 85 KB
+1
+606×1304 85.9 KB
+2
+604×1298 74.6 KB
+What's new?
+Easy product discovery:
+You will be able to easily discover the product offering on the Investment home page and quickly navigate through MF Explore, Gold, and FD.
+Total current value across investment products:
+You will be able to view the total current value on the investment Home page. The total current value will be the summation of the current values of Mutual Funds, Gold, and FD.
+Critical updates and actions:
+You will be able to quickly see the updates and action information on the Investment Home page.
+Why the change?
+Monotonous:
+Investment home page was monotonous - it seemed like a mutual fund explore page rather than an Investment Home page.
+Product discovery:
+The discovery of FD and Digital gold was limited to spotlight cards.
+How to get started?
+Just download app version >= 2.0.15 or update the app to the latest version.
+Best reviews get 🎁
+We would like to reward Jupiter lab testers for their hard work. We like to shape the product with our Community folks.
+The Investments team will pick 5 value-adding reviews in the comment section below. The 5 reviewers will be rewarded with 200j each.
+Note:
+You will need to be part of the Jupiter Labs group in the Community.
+Your review should be in the comments below.
+Test duration
+Users registered for Jupiter Labs on or before March 28th, 2023, will be eligible to test.
+The team will announce the results of chosen reviews on April 30th, 2023
+Looking forward to your feedback!
+@trust_level_0"
+jupiter-labs,(Completed) Phone number update - Initial testing 📱,"Hello!
+As you all know, we are working on a feature that can change your mobile number. It’s been going on for a long time. There were many complications and hurdles along the way, we apologize for the delay
+It's closer than ever!
+We are going to launch the feature soon. But first, we would like to test the flow with some community users who are interested in changing their Jupiter account mobile number.
+How is this going to work?
+You will need to register for the test here -
+https://forms.gle/91tWS3hWzCu22dup6
+80-100 odd folks will be contacted for changing their mobile numbers.
+You will be invited for a quick phone call/Google Meet/Zoom call for 10-15 minutes with the Jupiter team. We can decide on a common time.
+Instructions will be given on the call, you will need to perform certain tasks for this to work.
+Note:
+Please opt for this
+only if you want to change
+your mobile number permanently.
+The number may/may not be changed. It’s a simple test to see if this flow works. There won’t be any side effects, don’t worry.
+Excited to test the new flow with you folks!
+Can’t wait"
+jupiter-labs,(Completed) Lab test #11 - Fixed Deposits on Jupiter 💰,"Hello, Lab testers!
+I am super excited to announce the launch of Fixed Deposits feature for Jupiter!
+After multiple user interviews and speaking to many Community members, we’ve built the first version of FDs.
+715×358 46.7 KB
+What are Fixed Deposits?
+This is one investment that is super simple!
+You park your money with a bank for a fixed period of time and you get paid a fixed return for it. We’ve partnered with Federal Bank to bring you fixed deposits with returns up to 7.25% annually.
+Navigation for Fixed Deposits
+Launch the app > Home page > Investments tab > Fixed Deposits icon
+529×552 21.5 KB
+Access and Eligibility
+This will be available for FKYC users only, with an early access period for our Jupiter Labs members. The product is available from app version 2.0.8 onwards.
+If you can’t see it yet, let us know in the comments below.
+Review FDs and get rewarded!
+From this lab test onwards, we would like to reward Jupiter lab testers for their hard work. We like to shape the product with our Community folks.
+The Investments & Community team will pick 5 value adding reviews in the comment section below. The 5 reviewers will be rewarded with 200j each.
+Note:
+You will need to be part of the Jupiter labs group in the Community.
+Your review should be in the comments below.
+Test duration
+Users registered for Jupiter labs on or before
+Feb 17th, 2023
+Feb 23rd, 2023, will be eligible to test FDs.
+The team will announce the results of chosen reviews on February 24th, 2023
+The winners have been chosen!
+How to write the review while you test?
+How did you like the UX?
+Is the interaction intuitive and smooth?
+Any issues/bugs/challenges along the way
+Comparing to other apps and sharing what can be done better gets preferred here!
+Did you notice anything else? Let us know your thoughts!
+Joining Jupiter labs
+If you aren’t part of Jupiter labs yet, here’s how you can join the testing group -
+Introducing Jupiter Labs 🧪
+Once submitted, the team would take a week or less to enable the feature for you to test. You will be notified on the Community once you get added.
+Happy testing folks and Good Luck!
+@Jupiterlabs"
+investments-club,About the Investments Club category,This is the safest place to get some fine quality investment intelligence.
+investments-club,Important alert on tax saving under section 80C,"Important alert on Tax Saving!
+Hey Team,
+This year,
+March 29, 30, and 31 are holidays
+, so the
+deadline to invest in tax-saving funds is March 28, 2024, till 2:00 PM
+. That’s right, you’ve got only TEN days left! If you invest after the deadline, your investments will be considered for tax savings in the next financial year. [
+Note: You got 10 days only on Jupiter, on other apps you might get 7-8 days
+].
+If you’ve opted for the old tax regime & are earning over 5 lakh, you’ve a chance to save big on taxes
+. Invest up to Rs 1,50,000 in tax-saving mutual funds and slash your taxes by up to Rs 46,800 under section 80C of the Income Tax Act.
+For the actual savings, enter the correct details on the
+Tax Saving Widget
+on Jupiter
+.
+You can download your
+tax saving statement from here
+.
+Don’t let procrastination rob you of substantial savings. Invest wisely, save smartly!
+#TaxSaving
+#InvestSmart
+#ActNow"
+investments-club,Thoughts on BTC status? ,"Is BTC becoming like a real gold?
+People are now accepting BTC as new safe haven to keep their asset safer than gold imo.
+What is everyone thinking about?"
+investments-club,About Mutual funds ,"Hi All,
+How to transfer our Jupiter Mutual funds to any other AMC’s like Groww, Zerodha?"
+investments-club,Thoughts on Investing in Spray Engineering Devices Unlisted Shares?,"Hello Everyone,
+I am considering an investment in
+Spray Engineering Devices
+(SED) unlisted shares and would love to gather insights from those who might have experience or knowledge in this area."
+investments-club,Digital gold delivery,We currently have option to buy gold on SIP basis which has been very convenient. It would also be useful if Jupiter has option to deliver the gold purchases as coins if needed. This has been possible for a long time by other players and I believe this is a huge miss from Jupiters end.
+investments-club,Is Tata Capital Unlisted Shares a Good Investment?,I’m considering purchasing unlisted shares of Tata Capital through Altius Investech. Has anyone here had experience with this investment? What are the pros and cons? Any insights on the potential risks and returns would be greatly appreciated.
+investments-club,Is Spray Engineering Devices Limited a Good Investment Opportunity?,Is Spray Engineering Devices Limited a Good Investment Opportunity?
+investments-club,What are the best platforms to buy Utkarsh CoreInvest Unlisted Shares in India?,Looking to invest in Utkarsh Core Invest Unlisted Shares? Share your recommendations for the best platforms or brokers in India where these shares can be purchased. Any trusted options or personal experiences would be greatly appreciated!
+investments-club,Pre IPO shares soon to be listed,"Can anybody let me know which unlisted share is going to be listed soon and which one is best to invest , Also need some info about Herofincorp and Tata capital unlisted shares"
+bug-hunters,About the Bug hunters category,"Grab your best hunting gear and head over here to get rid of some pesky bugs!
+Bug hunters assemble!"
+bug-hunters,Bug on Widget,I observed a bug in this app. I have added the app widget on my home screen for the faster scan payments. When I open the widget the camera app is not opening. When go to home screen and open the app from the list and if I open the widget again then the camera is opening. If I kill the app then the camera won’t open.
+bug-hunters,"SBI transactions and Insights 3-4 months old, latest data not available","When I try to check my expenses for the month in a categorised format, it shows no transactions yet. This was one of the main reasons for me to start using jupiter but it doesn’t seem to work
+Please look into this
+Is this a common issue or only I am facing it?"
+bug-hunters,Superpot not showing up anymore,"I invest x amount every month in super pot, but now super pot is disappeared from the pots section. I chat with the team, and they told that it’d be fixed by 3:30 PM. It’s been roughly 12 hours, superpot’s still not showing up.
+Please help"
+bug-hunters,Can't redeem the magic spends,"I tried to redeem the magic spends. There is a redeem option. After clicking, i see the fund, below there is “continue” which is enabled. After clicking “continue” the “continue” gets disabled. And this disabled continue starts forever.
+Repeats the same process again and again."
+bug-hunters,Loan Mandate issue,"I have been trying to set the mandate for a loan on the Jupiter app, but I keep encountering errors. Despite multiple attempts (over 15 times), I have been unable to complete the process. Who is the concerned department I should contact for assistance? Thanks."
+bug-hunters,EMI auto debit not triggered,"We have accounts of loan and credit cards,
+My EMI dint trigger and a grace period gone error showed up. Mentioning credit health and panelty and stuff.
+Also, none of the payment options work."
+bug-hunters,Repay screen is stuck?,"Why it exactly getting stuck on due day ??
+IMG_5261
+1170×2532 67.9 KB"
+bug-hunters,Mini loan section is not working. The screen loading for hours,When I click on Mini loan the fetching details screen loading endlessly
+bug-hunters,"All transactions - Transactions made by CC, other bank account not showing up","How do I see transaction made by Rupay CC, other banks under all transactions? Earlier it was easier to trackdown all of it, even with a filter of account selection. Now all I can see under All Transactions are only Jupiter Bank account transactions.
+Has this feature been removed? or way  to navifate changed?
+Any help is appreciated.
+If this feature is no longer there then I need to look for some alternatives
+Thanks"
+my-finance,About the My Finance category,"Discussions about personal finance, tips & tricks to manage money, and more.
+Whenever it comes to money, we always have that friend or aunt who uses a lot of tricks to optimize their finances and is able to manage his/her money better.
+On this thread, let’s post all your tips and tricks so more community members can learn from it."
+my-finance,Market future,What is the future of market now that Iran and Israel are at war? How is market reaction?
+my-finance,Reduce Your Tax Liability Beyond Section 80C | Jupiter,"Like most taxpayers, you may know about the tax benefit of ₹1.5 lakhs available under section 80C of the Income Tax Act, 1961. The investment options under this section include employee provident fund (EPF), public provident fund (PPF), life insurance premium, tax-saving fixed deposits, and many more.
+However, apart from these, there are various other investment options that can help reduce your tax liability. Read on to know about other ways to save taxes.
+Deductions under section 80D
+Health insurance premium
+Section 80D of the Income Tax Act, 1961 provides tax benefits on medical insurance. Under this section, premium paid for purchasing health insurance for self, spouse, dependent children, and parents is eligible for tax deduction.
+The maximum deduction that can be claimed depends on the members covered under the policy and their age. Moreover, tax deduction of up to ₹5,000 is available for health check-up expenses for self or family.
+Medical expenses for a disabled dependent
+Section 80DD exempts any expenses related to the treatment of disabled dependents. Some of these include training, nursing, and rehabilitation of dependents. This deduction is available to individual and Hindu Undivided Family (HUF) taxpayers.
+Treatment for specified diseases
+Under section 80DDB, individual and HUF taxpayers may claim deductions on expenses incurred for treating certain specified diseases.
+Some of these include neurological disorders like dementia, Parkinson’s, ataxia, and motor neuron ailments; hematological ailments like hemophilia and thalassemia; renal failure, and malignant cancers. The deduction limit under section 80DDB is as follows:
+If the age of the person undergoing medical treatment is less than 60 years, they may claim ₹40,000 or actual incurred expenses for the treatment, whichever is lower.
+Senior citizens aged over 60 years may claim ₹1 lakh or actual incurred expenses for the treatment, whichever is lower.
+Repayment of education loan (section 80E)
+Under section 80E, interest paid on education loan availed for self, spouse, or any student for whom you act as a legal guardian is eligible for tax deduction. You can claim the benefit for seven years from the year you begin loan repayment, or until the entire interest is paid, whichever is earlier.
+However, the deduction can be claimed only if the loan is taken for pursuing higher education from an approved lender and not from relatives, friends, or family members.
+Interest payment on a home loan (section 24)
+If you have availed of a home loan, you can claim a tax deduction on the interest component of the equated monthly installment (EMI) under section 24.
+The loan must be on a self-occupied property, and the maximum deduction is limited to ₹2 lakhs per year. On the other hand, if the loan is taken for a rented or deemed to be rented property, there is no maximum limit on the tax deduction.
+Therefore, you can claim the entire interest as a tax deduction.
+Interest payment on a home loan for first-time homebuyers (section 80EE)
+First-time homebuyers can claim tax deductions of ₹50,000 under section 80EE of the Income Tax Act, 1961. This is in addition to the interest deduction of ₹2 lakhs available under section 24.
+However, the property value should be less than ₹50 lakhs and the home loan amount cannot exceed ₹35 lakhs.
+Interest paid on loan availed for an electric vehicle (section 80EEB)
+Under section 80EEB, you can claim tax deductions of up to ₹1.50 lakhs if you have availed of finance to buy an electric vehicle. To be eligible for this benefit, the loan should be taken between 1st April 2019 and 31st March 2023.
+Rent paid for accommodation (section 80GG)
+Another tax-saving option is available under section 80GG. If you are a salaried individual but do not receive house rent allowance (HRA) or if you are self-employed, you can claim rent paid as tax deduction.
+The maximum limit is ₹60,000 and is not available if you live in a rented house in the same city where you own a house. Additionally, if you claim interest deduction under section 24, this tax benefit is not available.
+Interest received from savings bank account (section 80TTA)
+Section 80TTA provides taxpayers with another income tax-saving option on the interest earned on their savings accounts. The maximum benefit available is capped at ₹10,000 per year.
+Interest earned from deposits in case of senior citizens (section 80TTB)
+Section 80TTB offers tax benefits to senior citizens on their interest earnings. The maximum limit under this section is ₹50,000 per annum. Senior citizens may claim tax benefits on interest earnings from deposits with post offices, banks, or co-operative banks.
+Long-term capital gains on the sale of residential property (section 54)
+Tax benefits under section 54 are available for individual and HUF taxpayers. The long-term capital gains earned on the sale of a residential property owned for at least 24 months are tax exempt.
+The benefit is available if you buy a new property within one year before the date of sale, or two years after the sale, or construct a house within three years from the selling date.
+Section 54EC also allows for exemption on capital gains earned from the sale of land or building. However, the profit must be invested in Central government-specified bonds, National Highways Authority of India (NHAI) bonds, or Rural Electrification Corporation (REC) bonds. The maximum deduction is limited to ₹50 lakhs.
+Frequently asked questions (FAQs)
+How does income tax work?
+Income tax is an important revenue source for the government and every citizen who earns an income is liable to pay tax according to the rules of the Income Tax Act, 1961. The money is used for infrastructure development and maintenance of public facilities. It is important to pay taxes and file returns on time.
+How to save tax over and above section 80C?
+Taxpayers may benefit from tax deductions under the following sections:
+80D deductions on medical insurance premium.
+80EE benefit on interest payment on home loan for first-time homebuyers.
+80EEB exemption on interest on an auto loan for purchasing an electric vehicle.
+80GG rent deduction if income does not include HRA.
+Tax benefits under the section 80G exemption list for donations to charitable institutions.
+80TTA benefit on interest earned from savings accounts.
+Interest deduction on home loan under section 24.
+Capital gains exemption under sections 54 – 54F.
+What is the maximum deduction under section 80D?
+Tax deduction under section 80D is available for medical insurance premiums for self, spouse, dependent children, and parents. The deductions are as follows:
+Insured
+Deduction limit (INR)
+Health check-up (INR)
+Total (INR)
+Self and family
+25,000
+5,000
+30,000
+Self, family, parents below the age of 60 years
+50,000
+5,000
+55,000
+Self, family, and parents above 60 years old
+75,000
+5,000
+80,000
+Self (above 60 years old), family, and parents (above 60 years old)
+1,00,000
+5,000
+1,05,000
+What is section 24 of the Income Tax Act?
+Section 24 provides exemption on the interest paid on a home loan for an amount up to ₹2 lakhs per year for self-occupied properties. If the property is rented, the entire amount paid as interest is eligible for tax exemption. The benefits are reduced to ₹30,000 if the following criteria are not met:
+The loan should be availed for constructing or buying a house.
+The date of availing of housing finance must be after 1st April 1999.
+If the property is under construction, it should be completed within five years.
+How does section 80D work?
+Section 80D deduction cannot be claimed if the premium is paid in cash. The benefit is available if your spouse and parents are not dependent on you. However, it is not available if you pay the premium for your children who are not dependent on you. Moreover, the maximum section 80D deduction limit is combined for all family members and is not available separately for each individual.
+What disabilities are covered under section 80DD?
+Section 80DD deductions are available for ailments like blindness, autism, locomotor disabilities, cerebral palsy, low vision, hearing impairment, mental illness, leprosy-cured, and mental retardation.
+Who is considered disabled dependent under section 80DD?
+Any disabled family member including spouse, children, and parents are considered dependent under this section. In the case of a Hindu Undivided Family (HUF), any member of the HUF is considered a disabled dependent.
+What is the maximum deduction under section 80DD?
+The maximum limit varies based on the disability. If the disabled dependent suffers from 40% of the specified ailment, tax deduction of up to ₹75,000 can be claimed for medical expenses incurred for the treatment.
+Severely disabled dependents suffer from 80% or more of the specified ailment. The maximum deduction limit under this section is capped at ₹1.25 lakhs for medical treatment costs.
+Understanding and investing in various tax-saving schemes can help reduce your tax liability by a significant amount. However, while planning your finances, you must not let just the tax savings drive your decision.
+For example, do not avail of a home loan simply to claim benefits under section 24. Taking advantage of the various tax deductions under the Income Tax Act, 1961 should be a thoughtful decision.
+This is a companion discussion topic for the original entry at
+https://jupiter.money/resources/other-income-tax-deductions/"
+my-finance,How to Apply for a PAN Card? | Online & Offline Application Process | Jupiter,"PAN, or Permanent Account Number, is a unique 10-digit alphanumeric identity for Indian taxpayers. While applying for a PAN card is optional, it is mandatory to quote your PAN number for certain financial transactions, such as payments over INR 50,000.
+It is also compulsory for individuals to have a PAN card if they receive a taxable salary or professional fees or invest in mutual funds.
+Overall, the key objective of the PAN card system is to act as a universal identification key for tracking financial transactions and preventing tax evasion, particularly by high net worth individuals.
+Who Can Apply for a New PAN Card?
+Anybody who earns a taxable income in India, including children and foreign nationals who pay taxes in India, must apply for a PAN card with the Income Tax Department of India. Besides salaried individuals, those running a business or freelancing and earning over INR 5 lakhs in a financial year should also apply for a PAN card.
+Even if your income isn’t taxable, having a PAN card is helpful when you’re opening a new bank account, investing in mutual funds, or purchasing foreign currency to travel abroad.
+How to Apply for a PAN Card
+The Government of India has simplified the PAN card application process. Applicants can apply for a PAN card through both online and offline methods.
+To apply for the card online, you may visit the
+NSDL portal
+or
+UTITSL website
+to process your application in a seamless, swift and contactless manner.
+For offline applications, you’re required to fill up and submit Form 49A for Indian citizens from either of these sites and send the duly filled and signed form to the concerned authority for it to get processed.
+The Charges for Processing Your PAN Application
+According to the Income Tax Department, the charges for applying for PAN are INR 93 (Excluding Goods and Services tax​) for an Indian address and INR 864 (Excluding Goods and Services tax) for a foreign address. Applicants may choose from bank cards, demand drafts and net banking to pay the fees.
+Online Pan Card Application Process
+1. Visit the
+NSDL website
+to apply for a PAN card online. You can fill up all the requisite information on this site and upload the required documents to get your PAN card in a few simple steps.
+2. Since you are applying for a new PAN card, click on the “Apply Online” option on the top left of the page to proceed ahead.
+3. Once you click on the Application Type, you will see a drop-down with three options:
+New PAN – Indian Citizen
+New PAN – Foreign Citizen
+Changes or Correction on Existing PAN/Re-print of PAN card
+4. Once you choose the required option, you will need to select the category. Assuming you choose New PAN – Indian Citizen, you will see a category list with options like an individual, firm, an associate of persons, Hindu Undivided Family (HUF), Trust, Limited Liability Partnership (LLP), local authority, etc.
+5. Once you select your category, you will be required to fill in your personal information in the following sections:
+Title
+Last name
+First name
+Middle name
+Date of Birth
+Email ID
+Phone number
+6. After filling in the required information, you will be asked to re-type a captcha code before clicking on “Submit” to send your data for processing.
+7. On hitting “Submit”, the website will provide you with an acknowledgement containing a token number, and you must print this page and save it for future reference. Here, you must click on the ""Continue with PAN Application Form"" button.
+8. You will now be redirected to fill in your personal details. Once you include the necessary information, select how you would like to submit the documents. You have the following options available:
+Forward the application physically
+Submit using digital signature
+Submit via e-sign
+You will have to choose between a physical PAN card and a digital PAN card. Select the documents you are going to submit as proofs for identity, address, and date of birth. Now confirm the declaration, place and date of application, review your form and proceed to the payment section after submitting your form.
+9. You can choose to pay via Demand Draft or Online Payment through Bill Desk. If you select the former, you must have your demand draft ready while making the application. Online payment may be made using bank cards or net banking.
+10. Click ""I agree to the terms of service"" and proceed to make the payment. The fee is different for online and offline applications. If you're paying online, you will receive a payment receipt that you must print and save.
+11. After payment, you may choose to send the documents physically or authenticate your application with Aadhaar Authentication using the “Authenticate” option. Once you choose this option, click on ""Continue with e-KYC"" to receive an OTP on your mobile number linked to your Aadhaar.
+12. Enter the OTP to submit your form. Now click on ""Continue with e-Sign"" followed by entering your Aadhaar number to receive another OTP. Once you enter this OTP, you will receive an Acknowledgement slip that can be opened with your DOB as the password in DDMMYY format.
+Offline PAN Card Application Process
+Here are the steps to follow to apply for a PAN card through offline methods:
+1. Visit the official website of the Income Tax Department of India to
+download Form 49A
+.
+2. Fill up all the sections in the form carefully with accurate information.
+3. After filling up the form, it must be posted along with:
+Two photographs
+A copy of your ID proof
+A copy of your address proof
+A demand draft for the applicable fee in favour of ‘NSDL – PAN’ payable at Mumbai
+4. Send the PAN card application to the following address:
+INCOME TAX PAN SERVICES UNIT (Managed by NSDL e-Governance, Infrastructure Limited), 5th Floor, Mantri Sterling, Plot No. 341, Survey No. 997/8, Model Colony, Near Deep Bungalow Chowk, Pune - 411 016.
+What Are the Documents Required to Apply for a New PAN Card?
+To apply for a PAN card, you need a photo ID proof to verify your identity, date of birth and address. The following documents should be adequate to apply for a new PAN:
+Your Aadhaar Card
+Valid passport or an acknowledgement letter if the passport hasn’t been received yet
+Recent passport size photographs
+What to Do If You’ve Lost Your PAN Card?
+If you’ve lost your PAN card, don’t fret. Besides reporting the loss, you can swiftly reprint a duplicate PAN card from the TIN-NSDL website. Follow the steps outlined below to reprint your PAN card online:
+1. Visit the NSDL website.
+2. Click on the “Apply Now” option to get a drop-down menu, wherein you must select the option of “Reprint of PAN card”.
+3. Fill in the mandatory information as required and hit “Submit”. You will receive a token number on the next page that will also be sent to your email id provided on the previous page. Save this token number for future reference and click on the “Continue with PAN Application Form” button at the bottom of the page.
+4. Type out your personal details and select the mode of submission for your PAN application form. You may choose to:
+Forward the application documents physically to the PAN services unit of NSDL via registered post.
+Submit your application online using the e-sign and e-KYC facility. For availing of this option, you need to have an Aadhaar card, and the details should match your PAN card information. You don’t need to submit any scanned images or documents in this method.
+The third method is the e-sign method, wherein you need an Aadhaar and also upload scanned copies of photographs, signature and other documents. An OTP will authenticate this application form.
+Next, you can choose between a physical PAN card or an e-PAN card, which requires a valid email id. Check your email for a token number and make a note of it for future reference.
+5. Fill in the contact and document details on the next page, complete the declaration and click on “Submit” to reach the payment page. You will receive a 15-digit acknowledgement number once you make the payment that can be used to track your PAN application.
+Can You Make Changes to Existing PAN Data?
+Yes, if there’s an error in your PAN card or you need to make some changes, you may follow the same procedure mentioned in the above section. Just choose the application type as: “Changes or correction in existing PAN data/ Reprint of PAN card (No changes in existing PAN data)”.
+If your PAN card is lost or stolen, you should go with the option of reprinting your PAN card without changing any information.
+What You Should Remember While Applying for a PAN Card
+Make sure that the details provided by you match with the information on your identity proofs.
+Ensure that you provide a valid address, phone number and email ID in your application.
+You’re not allowed to hold two PAN cards. You may only apply for a duplicate card if your original card has been stolen or misplaced.
+If you’re applying offline, fill Form 49A in block letters only and don’t forget to attach your photograph before posting. Your signature or thumbprint must go across the picture attached to the form. If you’re putting a thumb impression, it must be attested by a Magistrate or a Gazetted Officer.
+For online applications, all the attached files must be in JPEG format and within the recommended size.
+1. How long is a PAN valid after I apply for a PAN card online?
+Once you apply for a PAN card online and it is allotted to you, the PAN number will remain valid forever.
+2. Can I hold more than one PAN card?
+No, it is a punishable offence under the Income Tax Act, 1961, to hold more than one PAN card. Not obeying this rule can invite a penalty of INR 10,000.
+3. What should I do if my PAN card is lost?
+If you’ve lost or PAN card due to theft, immediately file an FIR at the nearest police station. You will have to send a copy of the FIR along with your duplicate PAN card application online or offline.
+4. How long does it take to receive a duplicate PAN card after an online PAN application?
+Your duplicate PAN card will be dispatched within two weeks of the department receiving the application.
+This is a companion discussion topic for the original entry at
+http://jupiter.money/resources/how-to-apply-for-a-pan-card-online/"
+my-finance,Track recurring payments,I would like to have a feature to track the recurring payments every month. That way I can view all my upcoming payments anytime and keep sufficient amount in account. Right now it’s only showing for bill payments. Would love to have EMI and personal transfers. Kind of budget thing. Cred money provides this feature and I am using it. But thats the only feature I use on Cred. Otherwise I don’t have any reason to keep it on my mobile. Jupiter provides most of the features.
+my-finance,What are some unexpected expenses you worry about?,"Hi everyone,
+We’re building something new on Jupiter
+— and we need your help.
+Let’s face it — life throws curveballs.
+Unexpected expenses hit the hardest when they come out of nowhere… and your bank balance takes the fall.
+We want to understand
+what
+keeps you up at night when it comes to unplanned spends.
+What are some examples?
+A cracked phone screen (goodbye, ₹10K+)
+Sudden medical bills (ER visits, tests, meds)
+Pet emergencies
+Laptop breaks right before a deadline
+Travel delays & cancellations
+Appliances breaking down
+Sound familiar?
+These expenses aren’t regular. They don’t show up on your monthly budget. But when they do… ouch. They mess with your financial plans
+and
+your peace of mind.
+So tell us
+What are some unexpected/unanticipated expenses and spends that you are worried about?
+Drop your answers in the thread below — let’s make financial wellness less unpredictable.
+@trust_level_0"
+my-finance,SIP Vs Lumpsum – Which Investment Path Should We Choose?,"SIP Vs Lumpsum – Which Investment Path Should We Choose?
+SIP
+Lump Sum
+Other Thoughts"
+my-finance,What is SIP,"SIP stands for
+Systematic Investment Plan
+.
+It’s a method of investing a fixed amount of money regularly (weekly, monthly, etc.) into mutual funds, particularly equity mutual funds. Instead of investing a lump sum, SIP helps you invest in a disciplined and phased manner."
+my-finance,"Folks who are good at saving money, what’s your mindset?","Question - What do you tell yourself when you really want to take that expensive trip or continue using your old gear (old phone, car, clothes etc).
+Banner
+3240×3240 202 KB
+Any suggestions on how you make your controlled decisions?
+Situation 1 - You have a fully functional smartphone and it meets your satisfaction. However, there’s a new model in the market with upgraded tech, looks classy too.
+Would you spend a few extra bucks to get minor upgrades? Or do you convince yourself that its not that important?
+Asking for a friend."
+my-finance,P2P Finance - As an investing asset class!,"Continuing the discussion from
+Your current Favorite Finance Feature?
+:
+Hey folks what has your experience been with P2P financing as investment avenue?
+What are the platforms you are using and what stood out?"
+hall-of-fame,About the Hall of fame category,"Event and badge winners over here! We will keep topics related to Community badges, Savings challenge winners and future contest winners."
+hall-of-fame,Community Champions for October 2023 🏆,"It’s here folks!
+The latest Community Champions results are out!
+Meet the champs for October 2023. We got 2
+Name -
+@alexnazy
+Role - Champion
+Alex has been one of the oldest members of this Community. After his long break, he’s back again better than ever! Alex guided multiple members and friends with answering queries on the forum or sharing perspectives that can help you make decisions.
+He’s even come over to the Bangalore HQ a few times and helped the team with prototype testing and what not!
+Name -
+@kingzeusvj
+Role - Champion
+Vishwas is also another oldie in the Community! We even had some of the best topics created by him! For example -
+Startup Updates
+He even kept it running and made more folks join the bandwagon. Great spirit!
+Gooooodies?
+The 2 of you will be getting
+2000
+each!
+Some links
+- How to be a champ and get future perks?
+- Previous months winners
+- The leaderboard
+Let’s congratulate these 2"
+hall-of-fame,Community Champions for June 2023 🏆,"It’s here folks!
+The latest Community Champions results are out!
+Meet the champs for June 2023. We got 3
+Name -
+@DigitaL
+Role - Champion
+Secret role - Fintech Guru
+Tamal has been one of our oldest members and has been extremely helpful over the past few months. He’s been sharing advice, tips and guidance to our members.
+He’s basically the FinTech guru in our Community
+Name -
+@Aswin_Benny
+Role - Champion
+Secret role - Bug Hunter
+Aswin has recently turned into a council member and has been diligent in shaping the Jupiter app to its perfection! He’s known to be a techie and has provided tips to many. Keep at it!
+Name -
+@Abhishek_Ulayil
+Role - Champion
+Secret role - Agent Coder 007
+Another recently turned council member, now turned into a champ! Heard he’s a coder. Abhishek has been helping the team with critical bugs and decision-making here in the Community and we thank you for that
+Gooooodies?
+Oh yes! The 3 of you will be getting a Jupiter goodie box since it’s your first time as champs! (After  Feb’s leaderboard update)
+We’ll reach out to you for details so that we can ship it out to you.
+Some links
+- How to be a champ and get future perks?
+- Previous months winners
+- The leaderboard
+Good job everyone
+That goes out to everyone!"
+hall-of-fame,Community Champions for May 2023 🏆,"It’s here folks!
+The results for our Community leaderboard rankings are out!
+Meet the champs for May 2023.
+At rank 1 -
+@razack
+ㅤ
+Abdul is one of the oldest members and has always been a champ. But in the past month, he’s been super active and has helped out almost everybody. He’ll be your go to buddy if you need to have a quick chat
+At rank 2 -
+@yagnesh01
+2 times in a row! You’ve earned it. Just like Abdul, Yagnesh has been super active on the forum and shared his insights, what could be done better and he’ll be one of the first peeps to engage with you
+At rank 3 -
+@saurabh.s
+Finally, we have Saurabh at 3rd place. He has initiated threads for all of us to speak on. You’ve helped us test, validate bugs if true/false, and even updated folks for upcoming features
+IMG_0218
+1170×2153 128 KB
+Thank you all and congratulations!
+The team will be connecting with you for your details so that the goodies can be shipped.
+What’s the surprise gift?
+Since
+@razack
+had become a champ for the first time after the leaderboard initiative, You’ll be getting a box of Jupiter goodies
+@yagnesh01
+&
+@saurabh.s
+would be getting Amazon vouchers worth Rs.1000 (rank 2) and Rs.750 (rank 3) respectively.
+Access to Leaderboard -
+Jupiter Community
+More on how it works & rules -
+Introducing the Community Leaderboard
+Update for June leaderboard
+There will be construct changes on:
+Selecting our future champions
+Leaderboard settings & earning rockets
+What are the future surprises?
+Requirements for keeping your Champion status
+More updates for our leaderboard this week, stay tuned!"
+hall-of-fame,Community Champions for April 2023 🏆,"It’s here folks!
+The results for our Community leaderboard rankings are out!
+Meet the champs for April 2023.
+At rank 1
+-
+@saurabh.s
+Saurabh takes the crown for April 2023. He had initiated new threads for members to talk about. Ranging from Tech news,  stock markets, and more. Saurabh also helped several members and shared his thoughts on products. Keep it up!
+At rank 2
+-
+@yagnesh01
+Yagnesh is probably one of the most active members of the forum. He’s helped members with lots of things. From Navigation, testing, helping team and Community members with ideas/feedback, and more. You’ve got this, champ!
+At rank 3
+-
+@Pratyay_Mustafi
+Finally, we have Pratyay in 3rd place. He’s an all-rounder on the forum! From news, to what’s buzzing, to sharing his favorite interests and helping us build better with his feedback. He’s the one!
+April champs
+1080×1712 185 KB
+We would like to thank you once again for contributing and shaping the Community into what it is today. This goes for everyone!
+The team will be connecting with you for your details so that the goodies can be shipped.
+What’s the surprise gift?
+Since
+@saurabh.s
+and
+@yagnesh01
+are champs for the first time, they’ll be getting a box of Jupiter goodies
+@Pratyay_Mustafi
+was a champ in the month of March. You’ll be getting 500
+instead!
+Access to Leaderboard -
+Jupiter Community
+More on how it works & rules -
+Introducing the Community Leaderboard"
+hall-of-fame,Community Champions for March 2023 🏆,"It’s here!
+The results for our Community leaderboard rankings are out!
+Meet the champs for March 2023,
+At rank 1
+-
+@kirankiran10333
+Kiran has been helping us test various sections of the app and has found bugs, UI glitches and more. Apart from this, he has helped other members with navigations and suggestions.
+At rank 2
+-
+@sani
+Sani has been one of the most active member of our Community forum, one would say he’s quite chatter box! He’s involved with suggestions, lab tests, news & trends and more. Truly an all rounder!
+At rank 3
+-
+@Satyajit_Singh
+Satyajit is one of the oldest bug hunters and still continues his hunt to this day. He makes sure that the app runs smoothly without any challenges. Not only for himself, but for his friends and users. He’s also contributed in lab tests and shared insights in multiple QnA’s.
+Screenshot 2023-04-01 at 10.57.33 AM
+1722×1282 169 KB
+We would like to thank you once again for contributing and shaping the Community to what it is today. This goes for everyone!
+The team will be connecting with you for your details so that the goodies can be shipped.
+Access to Leaderboard  -
+Jupiter Community
+More on how it works & rules -
+Introducing the Community Leaderboard"
+hall-of-fame,Community Champions for February 2023 🏆,"It’s here!
+The results for our Community leaderboard rankings are out!
+Meet the champs for Feb 2023,
+At rank 1 -
+@AdilAhmed
+At rank 2 -
+@Omkar18
+At rank 3 -
+@Pratyay_Mustafi
+Leaderboard -
+Jupiter Community
+More on how it works -
+Introducing the Community Leaderboard 🏅
+Congratulations! You are now part of the bigger league.
+Screenshot 2023-03-01 at 10.47.50 AM
+2162×1328 143 KB
+We will be reaching out to you on DMs for:
+Who do you want to connect and chill with?
+Pick any 1 person/team from the roster
+Share your address & details (on DM) for the Jupiter Goodie box
+Your mark on the hall of fame
+Our buddy roster:
+Team Investments -
+@Aastha
+,
+@Barun
+,
+@VasudhaPande
+,
+@vidyut
+Team Pots -
+@Ayushi_Sethia
+Team Insights & money management -
+@Lakhan_Suchdev
+Team Homepage and Rewards -
+@Ankit_Misra
+Team PRO -
+@somyasinha
+,
+@Ritik_Roy
+Team Salary -
+@kush
+,
+@sahil-sorathiya
+Team Payments -
+@Bankofthefuture
+The roster will change for the following months.
+Thank you all once again for contributing and shaping Jupiter"
+hall-of-fame,October 2022 | Badge winners 🏅,"Hall of fame time
+Here are our legendary Community Champions for October!
+@The_But
+@niranjan_kumar
+@Sai_Charan
+Congrats! You’ll be getting the Community Champion badge and name tags on your profile
+It’ll show up within 24hrs.
+Psst, we’ll be doing something fun and new with all the
+@Community_Champions
+sometime this or the next week. This is EXCLUSIVELY for the community champs!
+Stay tuned, can’t spoil more"
+hall-of-fame,September 2022 | Badge winners 🏅,"Hall of fame time
+Here are our legendary Community Champions for September!
+@Aniket_Dutta
+@Zed
+@Chevuru
+Congrats! You’ll be getting the Community Champion badge and name tags on your profile
+It’ll show up within 24hrs.
+Keep it up, folks!"
+hall-of-fame,August 2022 | Badge winners 🏅,"Hall of fame time
+Here are our legendary Community Champions for August!
+@SHEIKH_AZHARUDDIN
+@saurabhsaha
+@Arnab
+Congrats! You’ll be getting the Community Champion badge on your profile
+It’ll show up within 24hrs.
+If you’re wondering how you got the badge,
+read this
+Keep it up, folks!"
+research-centre,About the Research centre category,This category will be used for research / connecting via calls between community folks and the Jupiter team.
+research-centre,Research On Neo Banking,"Dear Community
+I’m conducting a research on customer perception, compatibility and acceptance of Neo banking in India. I consider this as an evolving area of Banking, Needless to say the potential it can unlock for a growing economy like India. Your opinions, perspective and suggestions will help in coming up with a comprehension of the Customers [Users] of Neo Banking in India
+I have designed a questionnaire to collect the data on the same. It’s my earnest request to you to spare a few minutes to fill in this questionnaire and help me in my study.
+Google Docs
+A study on Customer Preferences, Compatibility, and Acceptance of Neo-banking...
+I am required to collect the following information from the Neo banking customers to understand the acceptability and perception towards neo-banking services. Kindly fill out the following questionnaire and please be assured that the responses you...
+Thanks You
+Elroy
+Google Docs
+A study on Customer Preferences, Compatibility, and Acceptance of Neo-banking...
+I am required to collect the following information from the Neo banking customers to understand the acceptability and perception towards neo-banking services. Kindly fill out the following questionnaire and please be assured that the responses you..."
+research-centre,Metal Debit Card anyone?,"Hello folks, been some time!
+This could be the update you’ve been waiting for
+We saw a bunch of you participating in the
+Quest for Metal
+After we announced the winners, people (a lot of them) had just one question for us — how and when they could get their
+Metal Debit Card
+Some of you also had ideas about setting criteria for who gets the Metal Card - Higher NRV, MAB, fees, etc.
+Link
+So here’s the update — while the card will continue to be limited, we want to ensure more of you get your hands on it.
+Interested? Let us know how much you would like to pay for the metal card and what you expect from it.
+I’ll go first - I would be okay to pay a one time cost that covers the issuance of a metal card and would expect it to be the shiniest piece of metal with me.
+What are your thoughts? Let us know in the comments below"
+research-centre,High interest rate on your Credit Card? 💳,"Hey folks!
+@Research_centre
+We want to connect with some of our Community members to understand your
+Credit Card usage
+Banner
+3240×3240 219 KB
+Agenda
+Do you ever pay minimum amount or lesser than total due on your credit card?
+Were you aware about the interest/fee that will be charged to you?
+How do you manage situations where you need to carry the balance to next month and pay interest?
+In which situations do you carry current month’s bill to the next month?
+Jupiter wants to continue helping users manage their finances better & these question will help us provide products which can save people from the
+high interest rates of credit cards.
+If you’re interested in joining us over a quick Google meet/Zoom call, let us know!
+It’ll hardly take 15min or less.
+A) Yes, I’m in!
+B) A
+C) B
+0
+voters
+Bonus tips on how to improve your credit score!
+So, are you in?"
+research-centre,Pots/SuperPots Survey,"Pots/SuperPots/Habits users - Looking get some understanding of currents Pots/SuperPots usage, whether it’s meeting your needs, and potential areas of improvement we can make to improve it further. If you could take 5 min of your time to fill this survey, it would help us immensely.
+Google Docs
+Jupiter Pots/SuperPots Survey
+Dear customers, 
+
+Help us answer 10 quick questions that will take 5 minutes, and will help us inform product strategy with Pots/SuperPots on the Jupiter app.
+
+Thanks in advance."
+research-centre,(Poll of the week 📊) How do you use Pots?,"Hello again!
+The team is working on improving your experience with pots and wanted to know your behavior and thoughts on it.
+Pots
+1080×1080 128 KB
+We have a set of polls for you below:
+Do you set a goal amount on your pots?
+Yes
+No
+Woah! I didn’t know about this feature
+0
+voters
+How do you use pots (not Super pots) currently?
+Segregating monthly spends (Budgeting) Ex: Bills, premiums, SIPs
+Saving for goals (travel, gadgets, etc) or emergency
+To not spend the money anywhere else
+Other
+0
+voters
+And the below one is for Superpot users
+Why do you use Superpots?
+Saving for long-term goals
+To get a higher interest rate
+Don’t want to spend money anywhere else
+Other
+0
+voters
+Apart from this, We’d love to hear about your experience on pots and how we can improve this.
+Let’s use this thread to compile all the Pots-related discussions and take this to the next level.
+Have a great weekend everyone!
+@trust_level_0"
+research-centre,Let's understand how you bucket your spends with this small activity!,"Hi everyone,
+We are doing a quick
+card sort activity
+to see
+how people bucket their spends.
+Bucket spends
+1080×1080 42.9 KB
+This will help us improve categories for money-out/money-in tracking. It will also give us inputs on what level of customisations people need with categorisation.
+We would want everyone of you to participate to get a holistic view. And guess what, we are giving
+Amazon gift vouchers worth Rs 500
+to 5 lucky participants.
+You can access the activity from
+here
+. More details are on the link.
+Note: You can create your own categories, not necessarily tag all spends to the given categories.
+Let me know if you face any issue in doing the activity.
+Ready to group your spends?"
+research-centre,Improving the Jupiter help section | Thoughts?,"Hello everyone!
+@Research_centre
+I’m Mounica, from the Product Team at Jupiter
+I’m currently working on improving the Help Support Home Page and would like to get inputs from community on the same. Would also love to chat about the product and get your views! I assure you that this will be a quick conversation!
+Who’s in?
+Count me in!
+Maybe later
+0
+voters
+My thoughts on this.
+Eg:
+Reduced navigation efforts in help section
+Self help guides
+Once you pick yes, we’ll contact you over DM for details. You can share your views on chat or we can agree on a meeting time and get on a call. This should not take more than 10 mins.
+Cheers"
+research-centre,Introducing the research centre 🔬,"Hey everyone!
+We’ve been connecting with a lot of folks in the community on a 1-to-1 basis. Many have gotten on calls with our product and marketing teams for various research + casual chat. This helped us a lot.
+So, how about we make it official?
+Introducing a new category - Research centre
+Purpose of this category:
+Jupiter team and community folks get to connect with each other.
+Share ideas, and opinions on various kinds of topics.
+So how do we connect?
+We created a subgroup here -
+Research centre - Jupiter Community
+It’s open to the public. You can join here.
+We will create a topic under the research centre category once in a while and tag
+@Research_centre
+folks so that you will be notified if anything is up.
+The topic will include things that are needed from you, what’s it about, and a simple (Yes/No) poll.
+Those who answer yes/interested folks, we’ll connect with you via DM’s/comments and take it from there. Details like Email ID should be shared so that we can send you invites for Google meet/Zoom, etc.
+More info on this soon.
+Thanks and have a great day!"
+research-centre,Looking for views on priority banking support experience,"Hi Everyone!
+@Research_centre
+I’m Amatya, part of the Customer experience team here at Jupiter
+I am looking to get inputs from our community members for priority/preferred banking services. It will be a quick conversation!
+Topics on:
+What are some of the benefits of priority banking that you appreciate the most?
+Have you reached out for help to the bank? If yes, what are some of the differentiated customer support services you received as a priority member?
+Yup! Count me in
+Maybe later
+0
+voters
+Once you pick yes, we’ll contact you over DM for details. You can share your views on chat or we can agree on a meeting time and get on a call. This should not take more than 10 mins.
+Do let me know. Cheers!"
+general,Welcome to the community 👋🏼,"Hello!
+Welcome to the Jupiter community
+The inner circle for all things money, tech, and out-of-the-world ideas
+So, what happens on Planet Jupiter? 🤔
+We listen. Whether you’re not able to differentiate between 0 and O in bank statements or just want a better color palette on the app, bring out our loopholes and we’ll sort them right out.
+We learn. Vent out all your financial worries here and expect someone from the community to help you with them!
+We hype each other up! Tell us about your ideas and services you want Jupiter to build. If it matters to you, it’ll matter to us!
+Long story short, treat this as a platform to discuss All Things Money
+How to get started? 🙌
+Tell us about yourself
+Break the Ice, Introduce Yourself
+Check out the feature requests by our community:
+Community Board
+Want to share your feature request? Share
+Here
+Or check out our latest updates here -
+Weekly updates 📣
+This is how you can stay up to date: 🔔
+Activate Jupiter community on your
+phone
+Always stay in the know, activate
+notifications
+Rules and guidelines: 📜
+Avoid creating a new topic if it already exists. We suggest you search for what’s on your mind. If it’s here, you can start contributing!
+If you’re creating a new topic, try to categorize them with a suitable tag. If you can’t sort the topic, no worries! Our community team will categorize them for you.
+Posting or creating a topic ✍🏻
+How to upload an image
+Click on the icon shown below.
+Screenshot 2022-10-12 at 2.29.59 PM
+1418×352 27.6 KB
+How to insert a poll
+Settings icon and click on insert poll.
+You can share links, images, files like PDF’s and gifs. Video uploads aren’t supported.
+However, YouTube links can generate a preview and you can watch it here.
+DM or message someone
+Click on your profile icon and tap on the message icon
+If you’ve got a DM, it will show you a green pop up in numbers.
+If you’ve got a notification, it will show you a space fire pop up in numbers (Jupiter colours).
+If you’re facing any challenges -
+Process for service requests - Please follow this (Important)
+If you need help with how the community functions, we’re always here for you
+You can ping the
+@Community_Team
+/
+@Community_Council
+for further assistance.
+Here’s to co-creating an experience for all things money!
+Cheers"
+general,"Break the Ice, Introduce Yourself","“People maketh community” is as true as “Manners maketh Man”.
+Get to know all the people here and let them know a little about you? Your interests, your work and maybe what got you here?!
+PS: You never know who you might crash into so don’t hold back"
+general,About the General category,"Off-topic threads that don’t fit anywhere else
+Happy posting!"
+general,I cant find the metal debit card option!,"I cant find the metal debit card buying option.
+anyone help with the exact details or when i comes in an update!"
+general,New Reward structure for CSB card?,"SmartSelect_20250316_215942_Instagram
+997×1728 101 KB
+So i got this ad for Jupiter CSB card. Is this true. If true could you also allow some of Visa edge card holders to apply for rupay. The fedral visa edge card seems to be dead atleast allow us to close and apply for csb rupay variant."
+general,How to buy metal debit card,how can i order it!
+general,Secret project | Are you in?,"We’re inviting you to build India’s best RuPay credit card.
+Do you want it to be lifetime free?
+Do you want more cashback? Discount on bills?
+Maybe you’d also want a unicorn or a complimentary Lamborghini as a welcome gift.
+Well, whatever it is that you want, put it in the doc below
+https://docs.google.com/document/d/1d25Qds5xbKmSVl_FUD6qi9Y35lBkUkBPdMENVBL9P1s/edit?tab=t.0
+Who can participate?
+Anyone can join & edit. Everyone’s anonymous.
+FYI, folks may delete almost everything on the doc. It’s pure chaos.
+Time limit
+You’ve got a day to dream up the card of your dreams!
+Your time starts NOW.
+Go crazy.
+@trust_level_0"
+general,All telecom operators should allow free data to Digital Rupee apps. ,"Every Bank have an additional app promoting digital indian currency Digital Rupee. But I don’t think people even use these apps. If possible, telecom operators can allow such apps to work even when user doesn’t have any active plan.
+They can also make other UPI payments chargeable except payments done on Digital Rupee App.
+What you guys think about this app and it’s future?"
+general,Isn't the pot creation going to be easy as was it before,"I see any new pot creation takes me to KYC and I’m trying to create a pot for more than 2 month and i’m still unable to complete as it keeps loading and doesn’t take me to approval process.
+Moreover this method is too time taking, Isn’t the pot creation going to be easy as was it before ?"
+general,Re-open Jupiter account,"When will Jupiter allow users who have closed Jupiter account before to reopen account?
+We really wanna use jupiter, please start work on this."
+help,Process for service requests - Please follow this (Important),"Hey folks!
+Hope everyone is well.
+We’ve been noticing a lot of people raising service issues in the community without going through support channels first.
+Let’s follow a process to ease things out:
+If you face any issue/challenges in the app - reach out to our customer support first. We have a strong and dependable team who is ready to help you out.
+Here’s how you can connect with our support team:
+Via App chat - Open the Jupiter app > Home page, click on the ? icon > Choose your query and start chat with an agent.
+Email support - support@jupiter.money
+Call support - +91 8655055086
+We won’t be able to fully address issues on the community channel unless one has formally gone through support channels. Hence, the resolution for your issue will be given to you via support channels itself. Not the community.
+This community is a place to learn, interact, and get constructive feedback. More importantly, co-create the product together!
+From,
+The Community Team"
+help,How to remove postpaid number reminders?,"I once paid bill for a postpaid number, but i keep on getting notification on it. How to remove reminder for those numbers?"
+help,Custom metal debit card,"I like to get a custom metal debit card.
+How can i proceed?"
+help,How to transfer money from jupiter second account?,"Hi, as we know Jupiter has two accounts in the app with Federal Bank.
+I don’t have any ongoing pot but somehow I transferred money to my second account using account details.
+Now how can I transfer that money to my main savings account?"
+help,Superpots removed,Superpot is removed
+help,Periodic Kyc update ,"I received this email and a SMS from Federal Bank regarding periodic KYC update, but the link provided in the email isn’t working. Has anyone else faced this issue? What should I do next?
+IMG_20250314_153421
+1080×1626 238 KB"
+help,Pot withdrawal issue,"Hey guys i am new to this community
+I am having issues with my pot withdrawls.
+I have tried multiple times withdrawing money from it but it’s showing withdrawal failed.
+My jupiter account is active and so is my pots account.
+Pleass help me to resolve this issue as i urgently need the money."
+help,RTO payment failed but money debited,"Hi All
+I was paying my RTO tax online with my credit card on Vahan page. Money got deducted from my card but later on Vahan page got error out.
+I waited for 24 hours, now it is showing that transaction failed in Vahan app.
+So somebody can please help me if my money get refunded automatically or I have to follow somewhere. Please suggest"
+help,Need help onboarding,"Hi,
+While onboarding, it doesn’t allow me to open savings account. The mobile number which I’m using for registering on Jupiter is already linked to my Aadhaar but still it gives error “Mobile number not linked to Aadhaar”.
+IMG_7688
+1179×2556 147 KB"
+help,Unable to Make Transactions Using My Visa Debit Card,"I’m currently facing an issue with my Visa debit card. Whenever I try to make a transaction, it doesn’t proceed to OTP page and redirect to payment and transaction got failed, and I’m not sure what the problem is. I’ve double-checked the card details, and everything seems fine.
+Has anyone faced a similar issue?"
