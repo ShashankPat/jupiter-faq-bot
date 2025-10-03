@@ -28,4 +28,9 @@ faq_bot.py → Retrieval + RAG logic (incl. bilingual support)
 app.py → Streamlit front-end
 evaluate_methods.py → Compares pure retrieval vs. RAG on accuracy & latency
 eval_set.csv → Sample Q&A eval set for benchmarking
-requirements.txt → Pinned Python deps
+requirements.txt → Pinned Python deps 
+
+🌐 Deployed App
+👉 Jupiter FAQ Bot – Live Demo
+## Deployed App Link: https://jupiter-faq-bot-y5jbzyo9a3s9npqhxau5cz.streamlit.app/
+
