@@ -31,6 +31,5 @@ eval_set.csv → Sample Q&A eval set for benchmarking
 requirements.txt → Pinned Python deps 
 
 🌐 Deployed App
-👉 [Jupiter FAQ Bot – Live Demo](https://jupiter-faq-bot-y5jbzyo9a3s9npqhxau5cz.streamlit.app/)
-
+👉 <a href="https://jupiter-faq-bot-y5jbzyo9a3s9npqhxau5cz.streamlit.app/" target="_blank">Jupiter FAQ Bot – Live Demo</a>
 
